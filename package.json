@@ -1,0 +1,41 @@
+{
+  "name": "voluptatumtemporibus",
+  "version": "1.0.0",
+  "description": "Android and iOS supported pure JS slider component with multiple markers for React Native",
+  "main": "MultiSlider.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BreanaRyan/voluptatumtemporibus.git"
+  },
+  "keywords": [
+    "quis",
+    "react-component",
+    "react-components",
+    "debitis",
+    "native",
+    "slider",
+    "multiple",
+    "unde",
+    "component",
+    "consequatur",
+    "android"
+  ],
+  "author": "BrendanYundt",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "*",
+    "react": "*",
+    "prop-types": "*"
+  },
+  "devDependencies": {
+    "babel-eslint": "7.2.3",
+    "eslint": "3.19.0",
+    "eslint-config-airbnb": "14.1.0",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-plugin-jsx-a11y": "4.0.0",
+    "eslint-plugin-react": "6.10.3"
+  },
+  "bugs": {
+    "url": "https://github.com/BreanaRyan/voluptatumtemporibus.git/issues"
+  }
+}
